@@ -24,7 +24,7 @@ Built using **TF-IDF + Cosine Similarity**, it ranks recommendations by a weight
 - **Python**, **Pandas**, **NumPy**  
 - **scikit-learn** for TF-IDF & Cosine Similarity  
 - **Matplotlib** for visualizations  
-- **Jupyter / Google Colab** for exploration
+- **Google Colab** for exploration
 
 ---
 
@@ -87,7 +87,7 @@ Or open directly in **Google Colab**:
 
 ---
 
-## 🧾 Example Output
+## 🧾 Example
 > *Input:* “space opera” in Science Fiction  
 > *Output:* Top 10 most similar sci-fi books ranked by similarity, rating, and review count.
 
