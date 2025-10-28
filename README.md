@@ -1,6 +1,6 @@
 # 📚 SmartReads: Genre-Specific Book Recommender
 
-**SmartReads** is a content-based recommendation system that suggests books within the same genre by analyzing their descriptions and metadata.  
+**SmartReads** is a genre-based recommendation system that suggests books within the same genre by analyzing their descriptions and metadata.  
 Built using **TF-IDF + Cosine Similarity**, it ranks recommendations by a weighted mix of **similarity**, **popularity**, and **quality** to create personalized, genre-aware suggestions.
 
 ---
