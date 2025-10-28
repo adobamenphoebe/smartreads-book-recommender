@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+venv/
+data/raw/*
+!data/raw/goodreads_genre_clean_5k.csv
+reports/*
+dashboards/*
+.DS_Store
